@@ -1,0 +1,27 @@
+.text-area a h1{
+    font-size: 5rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    font-weight: 800;
+    line-height: 1.2;
+}
+.text-area a h3{
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-size: 3.2rem ; 
+}
+.text-area span{
+    font-size: 2rem;
+    font-style: italic;
+}
+.text-area a {
+    text-decoration: none !important;
+    color: #212529 !important;
+}
+.text-area a:hover{
+    color: #0085A1 !important;
+}
+.text-area{
+    width: 800px;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.mainarea{
+    width: 800px;
+    text-align: center;
+    margin: 30px auto;
+
+}
+.mainarea span{
+    font-size: 20px;
+}

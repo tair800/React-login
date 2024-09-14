@@ -1,0 +1,8 @@
+.text{
+    width: 800px;
+    margin: auto;
+}
+.text p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}

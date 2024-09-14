@@ -1,0 +1,21 @@
+.icons{
+    display: flex;
+    margin: auto;
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+}
+.icons i{
+    padding: 18px;
+    border-radius: 50%;
+    font-size: 3rem;
+    color: white;
+    background-color: #212529;
+margin-right: 5px;
+}
+.icons i:hover{
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+}

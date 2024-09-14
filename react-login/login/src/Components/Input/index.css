@@ -1,0 +1,10 @@
+.cusinp{
+    width: 100%;
+    padding:15px 30px;
+    border: none;
+    border-bottom: 1px solid rgb(188, 188, 189);
+    margin: 40px 0;
+}
+.cusinp::placeholder {
+    font-size: 25px;
+}

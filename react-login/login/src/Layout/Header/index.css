@@ -1,0 +1,20 @@
+
+
+.header-o{
+    background-color: rgb(27, 27, 27);
+    opacity: 0.5;
+    height: 884px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.custom-nav{
+    position: absolute;
+    z-index: 111;
+    width: 100%;
+}
+.custom-nav a{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+}

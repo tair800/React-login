@@ -1,0 +1,23 @@
+.sect{
+    position: relative;
+    margin-bottom: 3rem;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 900px;
+    box-sizing: border-box;
+    text-align: center;
+    background-position-y: -170px;
+    background-repeat: no-repeat;
+}
+.sect h1{
+    font-size: 7rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: white;
+    margin: auto;
+}
+.sect span{
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
